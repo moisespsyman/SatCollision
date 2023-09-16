@@ -1,0 +1,5 @@
+﻿  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 106 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SatCollion.vcxproj -> C:\Games\SatCollision\x64\Release\SatCollion.exe
